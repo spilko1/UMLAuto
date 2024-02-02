@@ -1,3 +1,5 @@
 #Auto
 
-Erstellung eines UML-Klassen
+Erstellung eines UML-Klassendiagramms für eine Auto-Klasse
+
+![UML](uml-auto.png)
